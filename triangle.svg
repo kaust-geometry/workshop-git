@@ -54,7 +54,7 @@
      transform="translate(-61.696017,-123.64043)">
     <path
        id="rect835"
-       style="fill:#cccccc;stroke:#808080;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       style="fill:#44aa00;stroke:#338000;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
        d="M 1.890625 3.5410156 L 1.890625 216.29102 L 319.3418 216.29102 L 1.890625 3.5410156 z M 42.257812 79.201172 L 186.58203 175.91797 L 42.257812 175.91797 L 42.257812 79.201172 z "
        transform="matrix(0.26458333,0,0,0.26458333,61.696017,123.64043)" />
   </g>
